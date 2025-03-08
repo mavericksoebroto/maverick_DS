@@ -6,7 +6,9 @@
 - 系級：科技系116
 
 ## 作業繳交區
-### HW1
+### HW1 Gemini Python API 實作
+(1) 作業程式原始碼 GitHub 連結
+https://github.com/mavericksoebroto/maverick_DS_Homework_1.git
 
 ### HW2
 
