@@ -22,7 +22,7 @@ All files related to this homework are located inside the **`DS Homework 2`** fo
 ### HW3 利用 Playwright 控制瀏覽器
 Homework Objective:
 
-This project uses **Playwright** to automate a browser session on Moodle, logging in and extracting assignment deadlines from the assignments page.
+This project uses Playwright to automate a browser session on Moodle, logging in and extracting assignment deadlines from the assignments page.
 
 ****
 
