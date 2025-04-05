@@ -64,7 +64,18 @@ Expected Output:
 | 注意： At the time of testing, there were NO assignments available. Hence, the expected output file `moodle_deadlines.csv` was NOT generated because no data was available to save. |
 |:--:|
 
-### HW4
+### HW4 利用 FPDF 生成一個可以下載的 PDF
+All files related to this homework are located inside the **`DS Homework 4`** folder:
+
+(1) `getPDF.py`: The script reads `output.csv` and `all_conversation_log.csv`, processes the data (removes NaNs, shortens column names, etc), and generates the `combined_output.pdf` file.
+
+(2) `output.csv`: The first CSV file containing the dataset that gets processed by `getPDF.py`.
+
+(3) `all_conversation_log.csv`: The second CSV file containing the dataset that gets processed by `getPDF.py`.
+
+(4) `NotoSansCJK-Regular.ttc`: The font file used by the script to ensure Unicode compatibility when rendering Chinese characters in the generated PDF.
+
+(5) `combined_output.pdf`: The combined output PDF generated after running the main script `getPDF.py`.
 
 ### HW5
 
