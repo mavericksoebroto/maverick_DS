@@ -86,3 +86,10 @@ https://www.canva.com/design/DAGjl_gbW6k/S1GKuI6ZFJ8S9bBii3yLGA/edit?utm_content
 
 (2) 介紹影片
 https://youtu.be/1MY3ThiO9i0
+
+### 期末專題的第二次提案
+(1) 介紹內容簡報
+https://www.canva.com/design/DAGlKhumSSk/uT9hGg4_hIlcSHnCMQgz0g/edit?utm_content=DAGlKhumSSk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+(2) 介紹影片
+https://youtu.be/p9BxqYkMwTc
