@@ -18,6 +18,9 @@ All files related to this homework are located inside the **`DS Homework 2`** fo
 (2) `bitcoin_news.csv`: 120 rows of fake Bitcoin news data that gets processed by `DRai.py`.
 
 (3) `output.csv`: The final processed CSV file after running the Python script equipped with evaluation results.
+
+(4) `hw2_output.png`: The output is printed in JSON-style blocks, as shown below:
+![HW2 Output](https://github.com/user-attachments/assets/ecf5b8ef-99e7-47fc-9f53-5937043faf41)
   
 ### HW3 利用 Playwright 控制瀏覽器
 Homework Objective:
