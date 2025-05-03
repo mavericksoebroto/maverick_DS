@@ -124,6 +124,9 @@ python app.py
 ```
 4. Open http://127.0.0.1:7860 in your browser to use the interface.
 
+前端的截圖:
+![Screenshot 1](https://github.com/user-attachments/assets/17a5ca08-95e3-400f-9ce0-77f75128404f)
+
 ## 期末專題繳交區
 ### 期末專題的第一次提案
 (1) 介紹內容簡報
