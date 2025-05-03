@@ -80,7 +80,49 @@ All files related to this homework are located inside the **`DS Homework 4`** fo
 
 (5) `combined_output.pdf`: The combined output PDF generated after running the main script `getPDF.py`.
 
-### HW5
+### HW5 加上前端功能
+The goal of this homework is to:
+- Accept a crypto-related CSV file from the user
+- Generate a line chart from time series price data
+- Create a PDF report with a clean table
+- Allow users to download the generated PDF
+
+All functionalities are wrapped into a simple Gradio web app.
+
+Project Structure:
+| File/Folder | Description |
+|-------------|-------------|
+| `app.py` | Main app file that builds the Gradio interface |
+| `report_generator.py` | Contains the functions to parse the CSV, create a chart, and export to PDF |
+| `crypto_data.csv` | Sample crypto CSV file (time + price data) |
+| `chart.png` | The auto-generated chart output used in the PDF |
+| `report.pdf` | The auto-generated PDF output from the CSV |
+| `requirements.txt` | Python libraries required to run the app |
+| `venv/` | Python virtual environment (ignored in `.gitignore`) |
+| `__pycache__/` | Python cache folder (ignored in `.gitignore`) |
+
+Expected Output:
+- 📈 A line chart based on the time and price columns of the CSV file
+- 📄 A downloadable PDF report with the table data from the CSV
+- 🖥️ A Gradio interface for uploading CSVs and downloading reports
+
+To run the project:
+1. Clone this repository:
+```bash
+git clone https://github.com/mavericksoebroto/maverick_DS.git
+cd maverick_DS/DS_Homework_5
+```
+2. Set up the environment:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+3. Launch the app:
+```bash
+python app.py
+```
+4. Open http://127.0.0.1:7860 in your browser to use the interface.
 
 ## 期末專題繳交區
 ### 期末專題的第一次提案
