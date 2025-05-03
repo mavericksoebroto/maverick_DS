@@ -126,6 +126,7 @@ python app.py
 
 前端的截圖:
 ![Screenshot 1](https://github.com/user-attachments/assets/17a5ca08-95e3-400f-9ce0-77f75128404f)
+![Screenshot 2](https://github.com/user-attachments/assets/434b77ff-4193-4be4-a5d1-fa7cbf7fe77e)
 
 ## 期末專題繳交區
 ### 期末專題的第一次提案
