@@ -1,0 +1,6 @@
+# Ignore virtual environment and cache
+venv/
+__pycache__/
+
+# Mac system files
+.DS_Store
