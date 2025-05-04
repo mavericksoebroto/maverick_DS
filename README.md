@@ -89,6 +89,8 @@ The goal of this homework is to:
 
 All functionalities are wrapped into a simple Gradio web app.
 
+****
+
 Project Structure:
 | File/Folder | Description |
 |-------------|-------------|
@@ -101,10 +103,14 @@ Project Structure:
 | `venv/` | Python virtual environment (ignored in `.gitignore`) |
 | `__pycache__/` | Python cache folder (ignored in `.gitignore`) |
 
+****
+
 Expected Output:
 - 📈 A line chart based on the time and price columns of the CSV file
 - 📄 A downloadable PDF report with the table data from the CSV
 - 🖥️ A Gradio interface for uploading CSVs and downloading reports
+
+****
 
 To run the project:
 1. Clone this repository:
@@ -123,6 +129,8 @@ pip install -r requirements.txt
 python app.py
 ```
 4. Open http://127.0.0.1:7860 in your browser to use the interface.
+
+****
 
 前端的截圖：
 ![Screenshot 1](https://github.com/user-attachments/assets/17a5ca08-95e3-400f-9ce0-77f75128404f)
