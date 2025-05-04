@@ -91,8 +91,8 @@ All functionalities are wrapped into a simple Gradio web app.
 
 ****
 
-Project Structure:
-| File/Folder | Description |
+All files related to this homework are located inside the **`DS_Homework_5`** folder:
+| File | Description |
 |-------------|-------------|
 | `app.py` | Main app file that builds the Gradio interface |
 | `report_generator.py` | Contains the functions to parse the CSV, create a chart, and export to PDF |
