@@ -150,3 +150,10 @@ https://www.canva.com/design/DAGlKhumSSk/uT9hGg4_hIlcSHnCMQgz0g/edit?utm_content
 
 (2) 介紹影片
 https://youtu.be/p9BxqYkMwTc
+
+### 期末專題發表
+(1) 介紹影片
+https://youtu.be/biySJxUVu1o
+
+(2) 期末專題程式原始碼 GitHub 連結
+https://github.com/41271212h/Data-Structure/tree/main/groupfinal
